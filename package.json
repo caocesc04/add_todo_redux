@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-coreui-boilerplate",
+  "name": "react-redux-coreui",
   "version": "0.0.1",
   "dependencies": {
     "@coreui/coreui": "^2.0.1",
@@ -16,7 +16,9 @@
     "react-loadable": "^5.4.0",
     "react-redux": "^5.0.7",
     "react-redux-toastr": "^7.2.6",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "1.1.4",
+    "reactstrap": "^8.4.1",
     "redux": "^4.0.0",
     "redux-form": "^7.3.0",
     "redux-thunk": "^2.2.0"

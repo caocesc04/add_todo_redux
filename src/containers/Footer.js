@@ -11,8 +11,10 @@ class DefaultFooter extends Component {
   render() {
     return (
       <React.Fragment>
-        <span><a href="https://github.com/emaxters/react-redux-coreui-boilerplate/archive/master.zip">Download</a> React Redux Core UI</span>
-        <span className="ml-auto">Other projects by <a href="https://github.com/emaxters/">shafeek</a></span>
+        <span>&copy; {new Date().getFullYear()} made with {" "}
+          <i className="fa fa-heart" /> by CaoNV-QE for a better web.
+        </span>
+        <span className="ml-auto">QE-A02 HonHai Dinh Tram BG</span>
       </React.Fragment>
     );
   }
